@@ -5,6 +5,7 @@ Cyaven is a cyan accented amoled theme for the Vendetta discord mod.
 ## Requirements
 
 [Vendetta](https://github.com/vendetta-mod/Vendetta#installing)
+
 You need Vendetta installed on your device to get the themes work.
 
 ## Installation
