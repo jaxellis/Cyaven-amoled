@@ -1,6 +1,6 @@
 {
-    "name": "CyavenAmoled",
-    "description": "Cyan Based Amoled Theme",
+    "name": "CyavenAmoled_Testing",
+    "description": "Testing branch for a Cyan Based Amoled Theme",
     "authors": [
         {
             "name": "jaxellis",
@@ -27,10 +27,10 @@
             "#00ffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ffffff"
+            "#4c0000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#ff0000"
         ],
         "INTERACTIVE_MUTED": [
             "#808080"
@@ -63,7 +63,7 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#00e6e0"
+            "#2187ab"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
