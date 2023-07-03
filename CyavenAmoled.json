@@ -12,19 +12,19 @@
             "#a6a6a6"
         ],
         "HEADER_SECONDARY": [
-            "#00ffff"
+            "#00e6e6"
         ],
         "TEXT_NORMAL": [
             "#a6a6a6"
         ],
         "TEXT_MUTED": [
-            "#00ffff"
+            "#00e6e6"
         ],
         "TEXT_LINK": [
-            "#00ffff"
+            "#00e6e6"
         ],
         "TEXT_DANGER": [
-            "#00ffff"
+            "#00e6e6"
         ],
         "INTERACTIVE_NORMAL": [
             "#a6a6a6"
@@ -48,7 +48,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#00ffff"
+            "#00e6e6"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -69,7 +69,7 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#00ffff"
+            "#00e6e6"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
@@ -97,25 +97,25 @@
         "PRIMARY_100": "#a6a6a6",
         "PRIMARY_200": "#a6a6a6",
         "PRIMARY_300": "#a6a6a6",
-        "PRIMARY_360": "#00ffff",
-        "PRIMARY_500": "#00ffff",
+        "PRIMARY_360": "#00e6e6",
+        "PRIMARY_500": "#00e6e6",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
-        "BRAND_260": "#00ffff",
-        "BRAND_360": "#00ffff",
-        "BRAND_500": "#00ffff",
+        "BRAND_260": "#00e6e6",
+        "BRAND_360": "#00e6e6",
+        "BRAND_500": "#00e6e6",
         "BRAND_560": "#a6a6a6",
         "WHITE_500": "#a6a6a6",
-        "BLUE_345": "#00ffff",
-        "YELLOW_300": "#00ffff",
-        "ORANGE_345": "#00ffff",
-        "GREEN_345": "#00ffff",
-        "GREEN_360": "#00ffff",
-        "RED_560" : "#00ffff",
-        "RED_400": "#00ffff"
+        "BLUE_345": "#00e6e6",
+        "YELLOW_300": "#00e6e6",
+        "ORANGE_345": "#00e6e6",
+        "GREEN_345": "#00e6e6",
+        "GREEN_360": "#00e6e6",
+        "RED_560" : "#00e6e6",
+        "RED_400": "#00e6e6"
     },
     "spec": 2,
     "background": {
