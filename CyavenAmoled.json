@@ -89,9 +89,6 @@
         "CHANNELS_DEFAULT": [
             "#c4c4c4"
         ],
-        "TEXT_LINK": [
-            "#00ffff"
-        ],
         "CHANNEL_ICON": [
             "#ffffff"
         ]
