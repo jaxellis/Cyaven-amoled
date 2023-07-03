@@ -30,7 +30,7 @@
             "#00ffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#026AA0"
+            "#00A0A0"
         ],
         "INTERACTIVE_MUTED": [
             "#808080"
@@ -63,7 +63,7 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#026AA0"
+            "#00A0A0"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
