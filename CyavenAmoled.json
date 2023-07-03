@@ -30,7 +30,7 @@
             "#cccccc"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#cccccc"
+            "#a6a6a6"
         ],
         "INTERACTIVE_MUTED": [
             "#666666"
@@ -90,7 +90,7 @@
             "#cccccc"
         ],
         "CHANNEL_ICON": [
-            "#cccccc"
+            "#00FFFF"
         ]
     },
     "rawColors": {
