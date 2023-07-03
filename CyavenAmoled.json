@@ -9,13 +9,13 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ffffff"
+            "#00ffff"
         ],
         "HEADER_SECONDARY": [
             "#00ffff"
         ],
         "TEXT_NORMAL": [
-            "#ffffff"
+            "#cccccc"
         ],
         "TEXT_MUTED": [
             "#00ffff"
@@ -27,28 +27,28 @@
             "#00ffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ffffff"
+            "#cccccc"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#00ffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#808080"
+            "#00e6e640"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#1a1a1a"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#1a1a1a"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#00ffff"
+            "#1a1a1a"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -63,16 +63,16 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#00e6e0"
+            "#00e6e640"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000"
+            "#1a1a1a"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#00ffff"
+            "#1a1a1a"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
+            "#00ffff"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#000000"
@@ -81,25 +81,22 @@
             "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#999999"
+            "#00ffff"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#c4c4c4"
-        ],
-        "TEXT_LINK": [
             "#00ffff"
         ],
         "CHANNEL_ICON": [
-            "#ffffff"
+            "#00ffff"
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#ffffff",
-        "PRIMARY_300": "#ffffff",
+        "PRIMARY_100": "#cccccc",
+        "PRIMARY_200": "#cccccc",
+        "PRIMARY_300": "#cccccc",
         "PRIMARY_360": "#00ffff",
         "PRIMARY_500": "#00ffff",
         "PRIMARY_600": "#000000",
@@ -110,8 +107,8 @@
         "BRAND_260": "#00ffff",
         "BRAND_360": "#00ffff",
         "BRAND_500": "#00ffff",
-        "BRAND_560": "#ffffff",
-        "WHITE_500": "#ffffff",
+        "BRAND_560": "#cccccc",
+        "WHITE_500": "#cccccc",
         "BLUE_345": "#00ffff",
         "YELLOW_300": "#00ffff",
         "ORANGE_345": "#00ffff",
