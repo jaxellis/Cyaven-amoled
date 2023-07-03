@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#cccccc"
+            "#00e6e6"
         ],
         "HEADER_SECONDARY": [
             "#00e6e6"
@@ -39,16 +39,16 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#1a1a1a"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#1a1a1a"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#00e6e6"
+            "#333333"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -66,13 +66,13 @@
             "#00ffff40"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000"
+            "#333333"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#00e6e6"
+            "#333333"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
+            "#00e6e6"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#000000"
@@ -81,16 +81,16 @@
             "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#999999"
+            "#00e6e6"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#cccccc"
+            "#00e6e6"
         ],
         "CHANNEL_ICON": [
-            "#00FFFF"
+            "#00e6e6"
         ]
     },
     "rawColors": {
