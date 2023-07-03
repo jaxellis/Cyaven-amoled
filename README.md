@@ -12,7 +12,7 @@ You need Vendetta installed on your device to get the themes work.
 
 Copy the raw link and paste it in `Settings -> Vendetta -> Themes -> Plus Sign` to install the theme.
 
-## CyavenAmoled
+## Download
 
 Raw link:
 
@@ -22,7 +22,5 @@ https://raw.githubusercontent.com/jaxellis/Cyaven-amoled/main/CyavenAmoled.json
 
 ### Preview:
 
-Dark:
-![](https://raw.githubusercontent.com/jaxellis/Cyaven-amoled/main/screenshot-dark.png)
-Light:
-![](https://raw.githubusercontent.com/jaxellis/Cyaven-amoled/main/screenshot-light.png)
+Dark mode ONLY:
+![](https://raw.githubusercontent.com/jaxellis/Cyaven-amoled/main/screenshot_dark.png)
