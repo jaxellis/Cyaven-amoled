@@ -27,10 +27,10 @@
             "#00ffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#00ffff"
+            "#c4c4c4"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#00cccc"
+            "#c4c4c4"
         ],
         "INTERACTIVE_MUTED": [
             "#808080"
