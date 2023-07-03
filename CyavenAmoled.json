@@ -9,13 +9,13 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ffffff"
+            "#c4c4c4"
         ],
         "HEADER_SECONDARY": [
             "#00ffff"
         ],
         "TEXT_NORMAL": [
-            "#ffffff"
+            "#c4c4c4"
         ],
         "TEXT_MUTED": [
             "#00ffff"
@@ -30,7 +30,7 @@
             "#00ffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#00A0A0"
+            "#00cccc"
         ],
         "INTERACTIVE_MUTED": [
             "#808080"
@@ -63,7 +63,7 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#00A0A0"
+            "#00cccc"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
@@ -90,13 +90,13 @@
             "#c4c4c4"
         ],
         "CHANNEL_ICON": [
-            "#ffffff"
+            "#c4c4c4"
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#ffffff",
-        "PRIMARY_300": "#ffffff",
+        "PRIMARY_100": "#c4c4c4",
+        "PRIMARY_200": "#c4c4c4",
+        "PRIMARY_300": "#c4c4c4",
         "PRIMARY_360": "#00ffff",
         "PRIMARY_500": "#00ffff",
         "PRIMARY_600": "#000000",
@@ -107,8 +107,8 @@
         "BRAND_260": "#00ffff",
         "BRAND_360": "#00ffff",
         "BRAND_500": "#00ffff",
-        "BRAND_560": "#ffffff",
-        "WHITE_500": "#ffffff",
+        "BRAND_560": "#c4c4c4",
+        "WHITE_500": "#c4c4c4",
         "BLUE_345": "#00ffff",
         "YELLOW_300": "#00ffff",
         "ORANGE_345": "#00ffff",
